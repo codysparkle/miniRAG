@@ -1,0 +1,7 @@
+{"doc_id": "data/sample1.md", "chunk_idx": 0, "text": "RAG combines retrieval with generation to ground a"}
+{"doc_id": "data/sample1.md", "chunk_idx": 1, "text": "o ground answers in external knowledge. Good chunk"}
+{"doc_id": "data/sample1.md", "chunk_idx": 2, "text": "Good chunking keeps related sentence together and "}
+{"doc_id": "data/sample1.md", "chunk_idx": 3, "text": "ether and reduces context loss."}
+{"doc_id": "data/sample2.md", "chunk_idx": 0, "text": "testing sentences for developing mini RAG system p"}
+{"doc_id": "data/sample2.md", "chunk_idx": 1, "text": "G system pratcially. junk hello world type of sent"}
+{"doc_id": "data/sample2.md", "chunk_idx": 2, "text": "pe of sentence here to verify that functionalitiy."}
