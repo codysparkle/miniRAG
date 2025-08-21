@@ -2,3 +2,6 @@ numpy
 tiktoken
 scikit-learn
 sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
